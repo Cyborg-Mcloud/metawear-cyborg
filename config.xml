@@ -74,7 +74,7 @@
 
 <gap:plugin name="cordova-plugin-ble-central"  source="npm" />
 
-<gap:plugin name="com.mbientlab.metawear.cordova"   />
+<gap:plugin name="com.mbientlab.metawear.cordova"  source="npm"  />
 
 
 
